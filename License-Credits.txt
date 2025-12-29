@@ -1,0 +1,101 @@
+====================================================
+THIRD-PARTY CONTENT, CREDITS & LICENSES
+====================================================
+
+This resource pack contains assets derived from or inspired by other
+resource packs. All original authors are credited below.
+This pack is distributed under CC BY-NC-SA 4.0 unless stated otherwise.
+
+----------------------------------------------------
+MIT LICENSE — Pack #1
+----------------------------------------------------
+
+Pack name: Powder Snow Alerts
+Author(s): Daniel99j
+Original source: https://modrinth.com/project/ci7xxTFr
+
+MIT License
+
+Copyright (c) 2024 Daniel99j
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------
+MIT LICENSE — Pack #2
+----------------------------------------------------
+
+Pack name: Mace but 3D
+Author(s): Volery
+Original source: https://modrinth.com/project/r9aFsDLk
+
+MIT License
+
+Copyright (c) 2024 Volery
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------
+CC BY-NC-SA 4.0 — Pack #3
+----------------------------------------------------
+
+Pack name: Totem Tweaks
+Author(s): PhanZon
+Original source: https://modrinth.com/project/FIA8yFM3
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+This pack contains adapted or inspired assets from the above resource pack.
+Changes were made to the original assets.
+
+License text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+----------------------------------------------------
+CC BY-SA 4.0 — Pack #4
+----------------------------------------------------
+
+Pack name: Vanilla-Plus
+Author(s): xSpinHDx
+Original source: https://modrinth.com/project/iOf04ekT
+License: Creative Commons Attribution-ShareAlike 4.0 International
+
+This pack contains adapted or inspired assets from the above resource pack.
+Changes were made to the original assets.
+
+License text:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+====================================================
+END OF THIRD-PARTY LICENSES
+====================================================
