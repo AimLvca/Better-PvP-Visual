@@ -96,6 +96,20 @@ Changes were made to the original assets.
 License text:
 https://creativecommons.org/licenses/by-sa/4.0/
 
+----------------------------------------------------
+CC BY-NC-ND 4.0 — Pack #5
+----------------------------------------------------
+
+Pack name: Pumpkin Overlay - Frame
+Author(s): GruenerAdler
+Original source: https://modrinth.com/project/lmh8jJQu
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+This pack contains unmodified assets from the above resource pack.
+
+License text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 ====================================================
 END OF THIRD-PARTY LICENSES
 ====================================================
